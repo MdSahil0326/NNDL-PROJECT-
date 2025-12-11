@@ -1,4 +1,24 @@
+<!-- PROJECT BANNER -->
+<p align="center">
+  <img src="https://via.placeholder.com/900x200.png?text=Rock–Paper–Scissors+RNN+%7C+Online+Learning+Neural+Network" />
+</p>
 
+<h1 align="center">🤖 Rock–Paper–Scissors RNN (Online Learning AI)</h1>
+
+<p align="center">
+  <strong>A self-learning interactive game where an RNN predicts your next move.</strong>
+</p>
+
+<p align="center">
+  <!-- BADGES -->
+  <img src="https://img.shields.io/badge/Python-3.10-blue" />
+  <img src="https://img.shields.io/badge/TensorFlow-RNN-orange" />
+  <img src="https://img.shields.io/badge/Keras-Online--Learning-green" />
+  <img src="https://img.shields.io/badge/Run%20in-Colab-yellow" />
+  <img src="https://img.shields.io/badge/License-MIT-brightgreen" />
+</p>
+
+---
 ## 📌 Overview
 
 This project implements an **interactive Rock–Paper–Scissors game** where the computer uses a **Recurrent Neural Network (RNN)** to learn and **predict your moves in real time**.  
